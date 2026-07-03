@@ -1,0 +1,1 @@
+So we've identified a number of place that host data for playing. Let's establish a connection to each of them, documenting the process along the way. 
