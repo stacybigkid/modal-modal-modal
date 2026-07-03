@@ -9,7 +9,7 @@ You're seeing it everywhere: multimodal. What does it mean? Why has it become th
 
 ## Data
 
-This repo will walk through publicly available datasets that can be interrogated for specific questions. Those resource include
+This repo will walk through publicly available datasets that can be interrogated for specific questions. Those resources include
 
 A quick google search served [this article](https://www.tiledb.com/15-multimodal-datasets-to-know-in-2026#-tcga-the-cancer-genome-atlas) listing a number of multimodal datasets, many of which are rooted in biology and medicine. Let's start there. 
 
@@ -32,3 +32,6 @@ A quick google search served [this article](https://www.tiledb.com/15-multimodal
 ### Allen Brain Atlas
 [site](https://alleninstitute.org/brain-science)
 
+## Setup
+- python3.14
+- uv
