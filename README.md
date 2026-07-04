@@ -35,3 +35,6 @@ A quick google search served [this article](https://www.tiledb.com/15-multimodal
 ## Setup
 - python3.14
 - uv
+
+From project root:
+`uv sync`
